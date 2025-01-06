@@ -1,5 +1,5 @@
 1.  Inicio
-2.  funcion principal()
+2.  funcion principal()                        
 3.      variable, i[0-n]
 4.      variable2, i[0-n]
 5.      variable <-- 10
@@ -20,3 +20,4 @@
 // 30
 // 110
 //
+//Aquí tenemos 0 funciones y dos procedimientos, debido a que no retornan ningún valor como las funciones si lo deberían hacer. 
